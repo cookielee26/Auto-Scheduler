@@ -2,6 +2,8 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.Arrays;
 
+//my name is gookhee
+
 public class FreeTimeSchedule {
   Scanner scan = new Scanner(System.in);
   int[] timesFrom;
